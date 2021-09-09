@@ -1,5 +1,8 @@
 /* Big tablets to smaller laptop screens*/
 @media only screen and (max-width:1500px) {
+	h1{
+		font-size: 50px;
+	}
 	.first-content{
 		margin-top: 10px;
 		text-align: center;
@@ -124,6 +127,7 @@
 @media screen and (max-width:480px) {
 	.title{
 		padding-top: 30px;
+		font-size: 40px;
 	}
     body h1{
         font-size: 40px;

@@ -17,6 +17,7 @@ body {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   background-image: url(https://t4.ftcdn.net/jpg/02/86/02/67/360_F_286026740_xWkobcEk5g38qrH7cpfeImAnlUUSIrc5.jpg);
+  background-image: url(https://img.freepik.com/free-photo/digital-cyberspace-data-network-connections_24070-1044.jpg?size=626&ext=jpg);
   /* background-image: url(https://cdn.statically.io/img/i.pinimg.com/736x/e1/6d/42/e16d4219e671bac00d1c23131e6d723f.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,6 +46,7 @@ p{
     6px 6px 0px #26095c,
     7px 7px 0px #3f2581; 
     cursor: pointer;
+    font-size: 50px;
 }
 .first-content h2{
   font-family:'Times New Roman', Times, serif;
