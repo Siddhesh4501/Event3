@@ -40,8 +40,8 @@ p{
   font-weight: 600;
   text-shadow: 3px 3px 0px #428BFF,
     4px 4px 0px #1d3a68, 
-    5px 5px 0px #3301e9,
-    6px 6px 0px #26095c;
+    5px 5px 0px #3301e9;
+    /* 6px 6px 0px #26095c; */
      /* 7px 7px 0px #3f2581; */
     cursor: pointer;
     font-size: 50px;
