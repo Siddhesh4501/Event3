@@ -34,18 +34,18 @@ p{
   text-align: center;
 }
 .title{
-  font-family: 'Playfair Display', serif;
+  font-family: 'Times New Roman', Times, serif;
   letter-spacing: 5px; 
-  color: transparent;
-  /* color: #428BFF; */
-  /* font-family: "Meta", sans-serif; */
+  font-weight: 600;
   text-shadow: 3px 3px 0px #428BFF,
-    5px 5px 0px #1d3a68,
+    4px 4px 0px #1d3a68, 
     5px 5px 0px #3301e9,
-    6px 6px 0px #26095c,
-    7px 7px 0px #3f2581; 
+    6px 6px 0px #26095c;
+     /* 7px 7px 0px #3f2581; */
     cursor: pointer;
     font-size: 50px;
+    color:transparent ;
+    
 }
 .first-content h2{
   font-family:'Times New Roman', Times, serif;
