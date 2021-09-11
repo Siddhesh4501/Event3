@@ -34,7 +34,8 @@ p{
   text-align: center;
 }
 .title{
-  font-family: 'Times New Roman', Times, serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
   letter-spacing: 5px; 
   font-weight: 600;
   text-shadow: 3px 3px 0px #428BFF,
